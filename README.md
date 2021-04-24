@@ -10,20 +10,14 @@ The research problem is to figure out how we can predict which individuals are m
 # Steps taken
 In order to work on the above problem, you need to do the following:
 
-1)Define the question, the metric for success, the context, experimental design taken and the appropriateness of the available data to answer the given question
-2)Find and deal with outliers, anomalies, and missing data within the dataset.
-3)Perform univariate, bivariate and multivariate analysis recording your observations.
-4)Implement the solution by performing the respective analysis i.e. factor analysis, principal component analysis, and discriminant analysis.
-5)Challenge your solution by providing insights on how you can make improvements.
+* Define the question, the metric for success, the context, experimental design taken and the appropriateness of the available data to answer the given question
+* Find and deal with outliers, anomalies, and missing data within the dataset.
+* Perform univariate, bivariate and multivariate analysis recording your observations.
+* Implement the solution by performing the respective analysis i.e. factor analysis, principal component analysis, and discriminant analysis.
+* Challenge your solution by providing insights on how you can make improvements.
 
 # Dataset
 The main dataset contains demographic information and what financial services are used by individuals across East Africa. This data was extracted from various Finscope surveys ranging from 2016 to 2018, and more information about these surveys can be found here:
 
-FinAccess Kenya 2018. [Link]
-Finscope Rwanda 2016. [Link]
-Finscope Tanzania 2017. [Link]
-Finscope Uganda 2018. [Link]
-Dataset Files:
-
-Variable Definitions: http://bit.ly/VariableDefinitions 
-Dataset: http://bit.ly/FinancialDataset 
+* Variable Definitions: http://bit.ly/VariableDefinitions 
+* Dataset: http://bit.ly/FinancialDataset 
